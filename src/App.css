@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+  }
+  .flag-icon{
+       width: 15em;
+       line-height: 15em;
+       margin: 5px;
+  }
+  .correct{
+     color:green
+  }
+  .incorrect{
+    color:red
+  }
